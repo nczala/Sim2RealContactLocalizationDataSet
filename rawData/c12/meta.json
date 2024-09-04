@@ -1,0 +1,9 @@
+{
+    "date": "2024-08-06",
+    "contact_type": "hard",
+    "dynamic": false,
+    "start_from_time": -1,
+    "motion_filename": "robotMotionJointData_SimulationTest.csv",
+    "reference_duration_multiplier_lower": null,
+    "reference_duration_multiplier_upper": null
+}
